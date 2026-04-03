@@ -6,14 +6,14 @@ Angular Developer building real-world applications with strong UX and product th
 
 ## 🌿 Projects
 
-* **Plantree**
-  Meal planning, pantry & grocery system for real household use *(private for now)*
+- **Plantree**  
+  Meal planning, pantry & grocery system for real household use *(private for now)*  
 
-* **PengPhin Adventures**
-  Interactive memory game with progression, custom mechanics, and responsive UX
+- **PengPhin Adventures**  
+  Interactive memory game with progression, custom mechanics, and responsive UX  
 
-* **Pello (coming soon)**
-  Minimal Garmin watchface focused on clarity and quick readability
+- **Pello (coming soon)**  
+  Minimal Garmin watchface designed for clarity and effortless glanceability  
 
 ---
 
