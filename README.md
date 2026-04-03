@@ -29,5 +29,3 @@ Angular Developer building real-world applications with strong UX and product th
 
 Angular · TypeScript · SCSS
 Supabase (DB, Storage, Realtime)
-
----
