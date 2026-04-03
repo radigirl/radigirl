@@ -12,8 +12,8 @@ Angular Developer building real-world applications with strong UX and product th
 * **PengPhin Adventures**
   Interactive memory game with progression, custom mechanics, and responsive UX
 
-* **Garmin Watchface (coming soon)**
-  Minimal UI designed for small screens
+* **Pello (coming soon)**
+  Minimal Garmin watchface focused on clarity and quick readability
 
 ---
 
