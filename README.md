@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Radostina 👋
 
-<!--
-**radigirl/radigirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular Developer building real-world applications with strong UX and product thinking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌿 Projects
+
+* **Plantree**
+  Meal planning, pantry & grocery system for real household use *(private for now)*
+
+* **PengPhin Adventures**
+  Interactive memory game with progression, custom mechanics, and responsive UX
+
+* **Garmin Watchface (coming soon)**
+  Minimal UI designed for small screens
+
+---
+
+## 🧠 Approach
+
+* I design flows, not just screens
+* I build for real users (family-tested apps)
+* I focus on clarity, usability, and consistency
+
+---
+
+## ⚙️ Tech
+
+Angular · TypeScript · SCSS
+Supabase (DB, Storage, Realtime)
+
+---
+
+## 🔗 Links
+
+* Portfolio (coming soon)
+* LinkedIn (coming soon)
