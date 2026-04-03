@@ -31,8 +31,3 @@ Angular · TypeScript · SCSS
 Supabase (DB, Storage, Realtime)
 
 ---
-
-## 🔗 Links
-
-* Portfolio (coming soon)
-* LinkedIn (coming soon)
